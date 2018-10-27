@@ -232,7 +232,7 @@ class CryptLib {
 
     }
 
-    /***
+    /**
      * This function encrypts the plain text to cipher text using the key
      * provided. You'll have to use the same key for decryption
      *
@@ -257,7 +257,7 @@ class CryptLib {
         return encryptDecrypt(_plainText, _key, EncryptMode.ENCRYPT, _iv);
     }
 
-    /***
+    /**
      * This funtion decrypts the encrypted text to plain text using the key
      * provided. You'll have to use the same key which you used during
      * encryprtion
