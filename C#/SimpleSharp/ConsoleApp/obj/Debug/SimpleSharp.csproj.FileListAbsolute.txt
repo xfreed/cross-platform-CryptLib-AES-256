@@ -1,0 +1,6 @@
+D:\GitHub\cross-platform-CryptLib-AES-256\C#\ConsoleApp\ConsoleApp\bin\Debug\SimpleSharp.exe.config
+D:\GitHub\cross-platform-CryptLib-AES-256\C#\ConsoleApp\ConsoleApp\bin\Debug\SimpleSharp.exe
+D:\GitHub\cross-platform-CryptLib-AES-256\C#\ConsoleApp\ConsoleApp\bin\Debug\SimpleSharp.pdb
+D:\GitHub\cross-platform-CryptLib-AES-256\C#\ConsoleApp\ConsoleApp\obj\Debug\SimpleSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\cross-platform-CryptLib-AES-256\C#\ConsoleApp\ConsoleApp\obj\Debug\SimpleSharp.exe
+D:\GitHub\cross-platform-CryptLib-AES-256\C#\ConsoleApp\ConsoleApp\obj\Debug\SimpleSharp.pdb
