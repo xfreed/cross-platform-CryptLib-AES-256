@@ -31,7 +31,9 @@ class CryptLib {
 
     // encryption key and initialization vector
     byte[] _key, _iv;
-
+/**
+*
+*/
     public CryptLib() throws NoSuchAlgorithmException, NoSuchPaddingException {
         // initialize the cipher with transformation AES/CBC/PKCS5Padding
         _cx = Cipher.getInstance("AES/CBC/PKCS5Padding");
