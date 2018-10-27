@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
             /*
                   After first Crypt your IV will be added to end of your Text.
                  In second time you need call GetIv function
+                 1
              */
             result = crypto.encrypt(input, key, iv);
             Toast.makeText(this,"Crypt: "+result+"\nDecrypt: "+crypto.decrypt(result, key, iv),Toast.LENGTH_LONG).show();
