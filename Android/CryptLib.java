@@ -20,6 +20,7 @@ import android.util.Base64;
 class CryptLib {
 
     /**
+    *
      * Encryption mode enumeration
      */
     private enum EncryptMode {
